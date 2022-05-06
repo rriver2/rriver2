@@ -14,14 +14,22 @@
 </br>
 <h1>❤️‍🔥 프로젝트</h1>
 <h3>💻 WEB</h3> 
-<a href="https://doongu.gitbook.io/pk_select/">PKSelect</a></br>
-PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.
-<a href="https://github.com/rriver2/pk_selecter_pj_front">github</a>
+<h4>✨ PKSelect</h4> 
+<a href="https://github.com/rriver2/pk_selecter_pj_front"><img src="http://img.shields.io/badge/PKSelect_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ <a href="https://doongu.gitbook.io/pk_select/">PKSelect 문서</a>
 </br>
+PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.</br>
+
 </br>
- <a href="https://pkscl.kro.kr/">PKSCL</a></br>
-사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.
-<a href="https://github.com/rriver2/PKSCL">github</a>
+<h4>✨ PKSCL</h4> 
+  <a href="https://github.com/rriver2/PKSCL">
+<img src="http://img.shields.io/badge/PKSCL_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+ <a href="https://pkscl.kro.kr/">PKSCL 웹 페이지 
+</a>
+ </br>
+사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.</br>
+
 </br>
 </br>
 
@@ -37,15 +45,28 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
 <h3>📱 App (IOS) </h3>
 현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br></br>
 
- <a href="https://github.com/DeveloperAcademy-POSTECH/Gamer_mini">동글 ( Donggle )</a></br>
+ <h4>✨ Donggle</h4> 
+<a href="https://github.com/DeveloperAcademy-POSTECH/Gamer_mini"><img src="http://img.shields.io/badge/동글(Donggle)_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+ 
  동글동글 귀여운 앱 Donggle은 사용자가 스트레스를 관리하고 자신에게 맞는 스트레스 해소 방법을 찾을 수 있도록 도와줍니다.
  
- <a href="https://github.com/rriver2/WWDC--Ep-">Ep</a></br>
+ 
+  <h4>✨ EP</h4> 
+<a href="https://github.com/rriver2/WWDC--Ep-"><img src="http://img.shields.io/badge/Ep_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+
 앱 EP는 단어에 가둬져 있던 감정을 청각적인 요소와 사용자 인터렉션과 함께 시각화 시킵니다.
  
- <a href="https://github.com/rriver2/-AcaR-Nano-Challenge-1-">Acar</a></br>
+ 
+   <h4>✨ Acar</h4> 
+<a href="https://github.com/rriver2/-AcaR-Nano-Challenge-1-"><img src="http://img.shields.io/badge/Acar_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
 Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 제시해주어 의미있게 회고 할 수 있도록 돕고 Challenge 별로 회고를 모아서 기록할 수 있도록 돕습니다.
-
+<br></br>
 <p align="left">
 <img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
