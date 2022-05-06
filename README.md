@@ -15,10 +15,14 @@
 <h1>❤️‍🔥 프로젝트</h1>
 <h3>💻 WEB</h3> 
 <a href="https://doongu.gitbook.io/pk_select/">PKSelect</a></br>
-PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.</br>
+PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.
+<a href="https://github.com/rriver2/pk_selecter_pj_front">github</a>
+</br>
 </br>
  <a href="https://pkscl.kro.kr/">PKSCL</a></br>
-사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.</br>
+사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.
+<a href="https://github.com/rriver2/PKSCL">github</a>
+</br>
 </br>
 
 <p align="left">
