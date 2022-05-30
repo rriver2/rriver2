@@ -53,7 +53,7 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
  동글동글 귀여운 앱 Donggle은 사용자가 스트레스를 관리하고 자신에게 맞는 스트레스 해소 방법을 찾을 수 있도록 도와줍니다.
  
  
-  <h4>✨ EP</h4> 
+  <h4>✨ EP (WWDC2022 Winner)</h4> 
 <a href="https://github.com/rriver2/WWDC--Ep-"><img src="http://img.shields.io/badge/Ep_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
