@@ -43,7 +43,7 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
  
 </br>
 <h3>📱 App (IOS) </h3>
-현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br></br>
+현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
 
   <h4>✨ Acar</h4> 
 <a href="https://github.com/rriver2/-AcaR-Nano-Challenge-1-"><img src="http://img.shields.io/badge/Acar_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -60,7 +60,6 @@ Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 
 
 앱 EP는 단어에 가둬져 있던 감정을 청각적인 요소와 사용자 인터렉션과 함께 시각화 시킵니다.
 
-</br>
  <h4>✨ Donggle</h4> 
 <a href="https://github.com/DeveloperAcademy-POSTECH/Gamer_mini"><img src="http://img.shields.io/badge/동글(Donggle)_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
