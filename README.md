@@ -55,6 +55,7 @@ Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 
  
   <h4>✨ EP 
   <a href="https://github.com/wwdc-kr/Submissions">(WWDC2022 Winner) 
+    <a href="https://www.wwdcscholars.com/">(WWDCScholars)
     </h4> 
 <a href="https://github.com/rriver2/WWDC--Ep-"><img src="http://img.shields.io/badge/Ep_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
