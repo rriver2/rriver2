@@ -45,6 +45,14 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
 <h3>📱 App (IOS) </h3>
 현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
 
+ <h4>✨ Campair</h4> 
+<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
+
+</br>
+
   <h4>✨ Acar</h4> 
 <a href="https://github.com/rriver2/-AcaR-Nano-Challenge-1-"><img src="http://img.shields.io/badge/Acar_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
