@@ -11,39 +11,18 @@
 <p align="left"><a href="https://rriver2.tistory.com/"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 
-</br>
-<h1>❤️‍🔥 프로젝트</h1>
-<h3>💻 WEB</h3> 
-<h4>✨ PKSCL</h4> 
-  <a href="https://github.com/rriver2/PKSCL">
-<img src="http://img.shields.io/badge/PKSCL_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
- <a href="https://pkscl.kro.kr/">PKSCL 웹 페이지 
-</a>
- </br>
-사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.</br>
 
-</br>
-<h4>✨ PKSelect</h4> 
-<a href="https://github.com/rriver2/pk_selecter_pj_front"><img src="http://img.shields.io/badge/PKSelect_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- <a href="https://doongu.gitbook.io/pk_select/">PKSelect 문서</a>
-</br>
-PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.
-
-</br>
-</br>
-
-<p align="left">
- <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Htmp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=Css&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=VSCode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </p>
  
 </br>
 <h3>📱 App (IOS) </h3>
 현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
+  <h4>✨ Cherish</h4> 
+<a href="https://github.com/rriver2"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+ <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
+매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
+</br>
 
  <h4>✨ Campair</h4> 
 <a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -84,8 +63,38 @@ Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 
 <img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/SwiftUI-FF9900?style=for-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
+</br>
+<h1>❤️‍🔥 프로젝트</h1>
+<h3>💻 WEB</h3> 
+<h4>✨ PKSCL</h4> 
+  <a href="https://github.com/rriver2/PKSCL">
+<img src="http://img.shields.io/badge/PKSCL_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+ <a href="https://pkscl.kro.kr/">PKSCL 웹 페이지 
+</a>
+ </br>
+사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.</br>
 
+</br>
+<h4>✨ PKSelect</h4> 
+<a href="https://github.com/rriver2/pk_selecter_pj_front"><img src="http://img.shields.io/badge/PKSelect_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ <a href="https://doongu.gitbook.io/pk_select/">PKSelect 문서</a>
+</br>
+PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.
+
+</br>
+</br>
+
+<p align="left">
+ <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Htmp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=Css&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=VSCode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ </p>
 <br></br>
+
+
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
