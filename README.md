@@ -17,7 +17,7 @@
 <h3>📱 App (IOS) </h3>
 현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
   <h4>✨ Cherish</h4> 
-<a href="https://github.com/rriver2"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
  <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
