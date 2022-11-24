@@ -15,20 +15,18 @@
  
 </br>
 <h3>📱 App (IOS) </h3>
-
+현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
+</br>
  <h4>✨ Tiramisul</h4> 
-<a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ <a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear"><img src="http://img.shields.io/badge/Tiramisul_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
 "일상생활에서 의도적으로 지식을 적극적으로 생산하고, 지적 욕구를 충족시켜줄 수 있는 앱"이라는 주제로 현재 UIKit으로 개발중인 팀 프로젝트입니다. 
 
-</br>
 
-현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
   <h4>✨ Cherish</h4> 
 <a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
- </br>
  <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
 매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
 </br>
