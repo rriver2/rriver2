@@ -95,11 +95,12 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
 </a>
     <a href="https://github.com/anuraghazra/convoychat">
   <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rriver2&layout=compact&title_color=4ABB88&border_color=39de94" />
+     <!-- 
         <a href="https://github.com/anuraghazra/convoychat">
     </a>
 <img src="http://mazandi.herokuapp.com/api?handle=rriver22&theme=warm"/>
       </p>
- 
+ -->
 
 
 
