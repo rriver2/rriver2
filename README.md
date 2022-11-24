@@ -7,7 +7,7 @@
 </br>
 </br>
 
-<p align="left">📞 Contact : gaelee22@pos.idserve.net</p></br>
+<p align="left">📞 iMessage : rriverrr2@gmail.com </p></br>
 <p align="left"><a href="https://rriver2.tistory.com/"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 
