@@ -15,6 +15,15 @@
  
 </br>
 <h3>📱 App (IOS) </h3>
+
+ <h4>✨ Tiramisul</h4> 
+<a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+"일상생활에서 의도적으로 지식을 적극적으로 생산하고, 지적 욕구를 충족시켜줄 수 있는 앱"이라는 주제로 현재 UIKit으로 개발중인 팀 프로젝트입니다. 
+
+</br>
+
 현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
   <h4>✨ Cherish</h4> 
 <a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -31,13 +40,6 @@
 차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
 
 </br>
-
-  <h4>✨ Acar</h4> 
-<a href="https://github.com/rriver2/-AcaR-Nano-Challenge-1-"><img src="http://img.shields.io/badge/Acar_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
-Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 제시해주어 의미있게 회고 할 수 있도록 돕고 Challenge 별로 회고를 모아서 기록할 수 있도록 돕습니다.
-
 </br>
  
   <h4>✨ EP 
@@ -49,13 +51,6 @@ Apple Developer Academy 여정을 위한 회고 앱 Acar은 회고 가이드를 
  </br>
 
 앱 EP는 단어에 가둬져 있던 감정을 청각적인 요소와 사용자 인터렉션과 함께 시각화 시킵니다.
-
- <h4>✨ Donggle</h4> 
-<a href="https://github.com/DeveloperAcademy-POSTECH/Gamer_mini"><img src="http://img.shields.io/badge/동글(Donggle)_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
- 
- 동글동글 귀여운 앱 Donggle은 사용자가 스트레스를 관리하고 자신에게 맞는 스트레스 해소 방법을 찾을 수 있도록 도와줍니다.
  
  
 <br></br>
