@@ -7,7 +7,7 @@
 </br>
 </br>
 
-<p align="left">📞 iMessage : rriverrr2@gmail.com </p></br>
+<p align="left">📞 iMessage : rriver2@naver.com </p></br>
 <p align="left"><a href="https://rriver2.tistory.com/"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 
@@ -15,31 +15,8 @@
  
 </br>
 <h3>📱 App (IOS) </h3>
-현재는 <a href="https://github.com/DeveloperAcademy-POSTECH">Apple Developer Academy @ POSTECH</a>에서 IOS 개발을 하고 있습니다.</br>
-</br>
- <h4>✨ Tiramisul</h4> 
- <a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear"><img src="http://img.shields.io/badge/Tiramisul_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
-"일상생활에서 의도적으로 지식을 적극적으로 생산하고, 지적 욕구를 충족시켜줄 수 있는 앱"이라는 주제로 현재 UIKit으로 개발중인 팀 프로젝트입니다. 
 
-
-  <h4>✨ Cherish</h4> 
-<a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
-매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
-</br>
-
- <h4>✨ Campair</h4> 
-<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
-차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
-
-</br>
-</br>
- 
+   <h5> 1️⃣ WWDC Student Challenge에서 장학금 받은 프로젝트 </h5>
   <h4>✨ EP 
   <a href="https://github.com/wwdc-kr/Submissions">(WWDC2022 Winner) 
     <a href="https://www.wwdcscholars.com/">(WWDCScholars)
@@ -49,9 +26,39 @@
  </br>
 
 앱 EP는 단어에 가둬져 있던 감정을 청각적인 요소와 사용자 인터렉션과 함께 시각화 시킵니다.
- 
- 
-<br></br>
+  </br>
+  
+  </br> <h5>2️⃣ 현재 개발 중인 프로젝트</h5>
+  <h4>✨ Cherish</h4> 
+<a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
+매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
+</br>
+
+  <h4>✨ 가슴속 3000원</h4> 
+<a href="https://intro.threedollars.co.kr/"><img src="http://img.shields.io/badge/가슴속 3000원_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ <a href="https://apps.apple.com/kr/app/%EA%B0%80%EC%8A%B4%EC%86%8D3%EC%B2%9C%EC%9B%90-%EB%82%98%EC%99%80-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%B6%95%EC%96%B4%EB%B9%B5/id1496099467"> 🍎 AppStore</a></br>
+언제 어디서 붕어빵을 만날지 모르니 가슴속에 3천원을 지니고 다녀야 해</br>
+다양한 길거리 음식들의 위치가 궁금했다면 지금 바로 가슴속 3천원을 다운로드 해보세요!
+</br>
+</br>
+
+</br>
+<h5><a href="https://github.com/DeveloperAcademy-POSTECH">3️⃣ Apple Developer Academy @ POSTECH에서...</a></h5>
+ <h4>✨ Tiramisul</h4> 
+ <a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear"><img src="http://img.shields.io/badge/Tiramisul_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+"일상생활에서 의도적으로 지식을 적극적으로 생산하고, 지적 욕구를 충족시켜줄 수 있는 앱"이라는 주제로 현재 UIKit으로 개발중인 팀 프로젝트입니다. 
+
+ <h4>✨ Campair</h4> 
+<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </br>
+차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
+ </br>
 <p align="left">
 <img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
