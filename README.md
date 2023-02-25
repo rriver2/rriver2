@@ -14,7 +14,13 @@
 
  
 </br>
-<h3>📱 App (IOS) </h3>
+<h3>📱 App (iOS) </h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/SwiftUI-D22128?style=for-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ <img src="https://img.shields.io/badge/UIKit-FF9900?style=for-the-badge&logo=logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</p>
 
    <h5> 1️⃣ WWDC Student Challenge에서 장학금 받은 프로젝트 </h5>
   <h4>✨ EP 
@@ -59,13 +65,18 @@
  </br>
 차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
  </br>
-<p align="left">
-<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/SwiftUI-FF9900?style=for-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
+
 </br>
 <h1>❤️‍🔥 프로젝트</h1>
 <h3>💻 WEB</h3> 
+
+<p align="left">
+ <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Htmp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=Css&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=VSCode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ </p>
 <h4>✨ PKSCL</h4> 
   <a href="https://github.com/rriver2/PKSCL">
 <img src="http://img.shields.io/badge/PKSCL_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
@@ -85,13 +96,6 @@ PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있
 </br>
 </br>
 
-<p align="left">
- <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Htmp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=Css&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=VSCode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </p>
 <br></br>
 
 
