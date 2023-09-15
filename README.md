@@ -42,15 +42,6 @@
 매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
 </br>
 
-  <h4>✨ 가슴속 3000원</h4> 
-<a href="https://intro.threedollars.co.kr/"><img src="http://img.shields.io/badge/가슴속 3000원_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- <a href="https://apps.apple.com/kr/app/%EA%B0%80%EC%8A%B4%EC%86%8D3%EC%B2%9C%EC%9B%90-%EB%82%98%EC%99%80-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%B6%95%EC%96%B4%EB%B9%B5/id1496099467"> 🍎 AppStore</a></br>
-언제 어디서 붕어빵을 만날지 모르니 가슴속에 3천원을 지니고 다녀야 해</br>
-다양한 길거리 음식들의 위치가 궁금했다면 지금 바로 가슴속 3천원을 다운로드 해보세요!
-</br>
-</br>
-
 </br>
 <h5><a href="https://github.com/DeveloperAcademy-POSTECH">3️⃣ Apple Developer Academy @ POSTECH에서...</a></h5>
  <h4>✨ Tiramisul</h4> 
