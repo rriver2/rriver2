@@ -212,18 +212,19 @@
 - **Tech**: React, JavaScript
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rriver2&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,ccf7c9,ccf7c9&icon_color=4ABB88&border_color=39de94)](https://github.com/rriver2)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rriver2&layout=compact&title_color=4ABB88&border_color=39de94)](https://github.com/rriver2)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rriver2&theme=vue&ring=39de94&fire=4ABB88&currStreakLabel=4ABB88)](https://github.com/rriver2)
+### 📈 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rriver2&theme=vue&ring=39de94&fire=4ABB88&currStreakLabel=4ABB88" alt="GitHub Streak" />
 
 </div>
+
+### 🌟 참여 중인 오픈소스 & 프로젝트
+- 📱 **[Ourday](https://github.com/rriver2/Ourday)** - iOS/Android 커플 앱 (진행 중)
+- 📖 **[Cherish](https://github.com/rriver2/cherish)** - iOS 일기 앱 (진행 중)
+- 🎨 **[CHAKK](https://github.com/rriver2/CHAKK)** - iOS/Android 스토리 꾸미기 앱 (진행 중)
 
 ---
 
