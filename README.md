@@ -1,108 +1,251 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20!%20I%20am%20Gaeun%20Lee%20:\)%20&fontSize=70)
-</br>
-<h3>
-안녕하세요 저는 오뚝이 개발자 이가은입니다 :)</br></br>
-흔들리지만, 꾸준히, 그리고 반드시 세상에 필요한 개발자가 되기 위해 노력 중입니다!
-</h3>
-</br>
-</br>
+<div align="center">
 
-<p align="left">📞 iMessage : rriver2@naver.com </p></br>
-<p align="left"><a href="https://rriver2.tistory.com/"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gaeun%20Lee&fontSize=80&fontAlignY=35&desc=iOS%20/%20Android%20Developer&descAlignY=55&descSize=25)
 
+### 🌱 흔들리지만 꾸준히, 세상에 필요한 앱을 만드는 개발자
 
+[![Blog](http://img.shields.io/badge/💻_Blog-5FC397?style=for-the-badge)](https://rriver2.tistory.com/)
+[![Email](http://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rriverrr2@gmail.com)
+[![Instagram](http://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ou._.rivery/)
 
- 
-</br>
-<h3>📱 App (iOS) </h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/SwiftUI-D22128?style=for-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- <img src="https://img.shields.io/badge/UIKit-FF9900?style=for-the-badge&logo=logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</p>
+</div>
 
-   <h5> 1️⃣ WWDC Student Challenge에서 장학금 받은 프로젝트 </h5>
-  <h4>✨ EP 
-  <a href="https://github.com/wwdc-kr/Submissions">(WWDC2022 Winner) 
-    <a href="https://www.wwdcscholars.com/">(WWDCScholars)
-    </h4> 
-<a href="https://github.com/rriver2/WWDC--Ep-"><img src="http://img.shields.io/badge/Ep_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
+---
 
-앱 EP는 단어에 가둬져 있던 감정을 청각적인 요소와 사용자 인터렉션과 함께 시각화 시킵니다.
-  </br>
-  
-  </br> <h5>2️⃣ 현재 개발 중인 프로젝트</h5>
-  <h4>✨ Cherish</h4> 
-<a href="https://github.com/rriver2/cherish"><img src="http://img.shields.io/badge/Cherish_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- <a href="https://apps.apple.com/us/app/cherish/id1639908764"> 🍎 AppStore</a></br>
-매일 나를 들여다보는 시간을 가져보세요! 음악과 함께, 오늘 적고 싶은 일기 형식으로 !
-</br>
+## 👋 About Me
 
-</br>
-<h5><a href="https://github.com/DeveloperAcademy-POSTECH">3️⃣ Apple Developer Academy @ POSTECH에서...</a></h5>
- <h4>✨ Tiramisul</h4> 
- <a href="https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear"><img src="http://img.shields.io/badge/Tiramisul_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
-"일상생활에서 의도적으로 지식을 적극적으로 생산하고, 지적 욕구를 충족시켜줄 수 있는 앱"이라는 주제로 현재 UIKit으로 개발중인 팀 프로젝트입니다. 
+안녕하세요! **사용자의 일상에 작은 변화를 만드는 앱**을 개발하는 이가은입니다.
 
- <h4>✨ Campair</h4> 
-<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
-차박을 떠나기 위해 오랜시간 장비를 알아봐야했던 당신, 차박을 위한 장비를 추천 받고 차박 장비를 쉽고 빠르게 검색해보세요 !
- </br>
+- 🎯 **전공**: 컴퓨터공학
+- 💡 **관심 분야**: 모바일 애플리케이션 개발 (iOS/Android), UI/UX 디자인, 사용자 경험 최적화
+- 🌟 **개발 철학**: "사용자의 감정과 일상을 담는 따뜻한 기술"
+- 🏆 **주요 성과**: WWDC22,23 **Apple Swift Student Challenge Winner**
+- 🎓 **Apple Developer Academy @ POSTECH** 수료
 
-</br>
-<h1>❤️‍🔥 프로젝트</h1>
-<h3>💻 WEB</h3> 
+### 📫 Contact
 
-<p align="left">
- <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Htmp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=Css&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=VSCode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </p>
-<h4>✨ PKSCL</h4> 
-  <a href="https://github.com/rriver2/PKSCL">
-<img src="http://img.shields.io/badge/PKSCL_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
- <a href="https://pkscl.kro.kr/">PKSCL 웹 페이지 
-</a>
- </br>
-사용자의 편리를 추구하는 PKSelect는 온라인으로 미제출 강의, 과제, 시험을 한눈에 확인할 수 있는 서비스를 제공하여 부경대학교 재학생들이 편리하게 학업 관리를 할 수 있도록 돕습니다.</br>
+- **Email**: rriverrr2@gmail.com
+- **Blog**: [https://rriver2.tistory.com](https://rriver2.tistory.com)
 
-</br>
-<h4>✨ PKSelect</h4> 
-<a href="https://github.com/rriver2/pk_selecter_pj_front"><img src="http://img.shields.io/badge/PKSelect_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- <a href="https://doongu.gitbook.io/pk_select/">PKSelect 문서</a>
-</br>
-PKSCL은 부경대학교 재학생들이 이전보다 편리하고 신뢰도 있게 학과 장부를 온라인으로 관리 및 열람하는 서비스를 제공합니다.
+---
 
-</br>
-</br>
+## 🛠️ Tech Stack
 
-<br></br>
+<div align="center">
 
+### Mobile Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
+### Tools & Platforms
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rriver2&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,ccf7c9,ccf7c9,ccf7c9,ccf7c9&icon_color=FFFFFF&border_color=39de94" />
-</a>
-    <a href="https://github.com/anuraghazra/convoychat">
-  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rriver2&layout=compact&title_color=4ABB88&border_color=39de94" />
-     <!-- 
-        <a href="https://github.com/anuraghazra/convoychat">
-    </a>
-<img src="http://mazandi.herokuapp.com/api?handle=rriver22&theme=warm"/>
-      </p>
- -->
+### Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
 
+---
 
+## 📱 Featured Projects
+
+### 1️⃣ Ourday - 커플을 위한 특별한 이야기
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/ourday-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC-%EC%9C%84%EC%A0%AF-%EB%94%94%EB%8D%B0%EC%9D%B4%EB%A1%9C-%EB%A7%8C%EB%82%98%EA%B8%B0/id6737263796)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dearday.ourday)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rriver2/ourDDay)
+
+</div>
+
+> **커플이 함께 만드는 우리들만의 이야기**
+
+**Ourday**는 커플이 함께 소중한 순간을 기록하고, 귀여운 캐릭터로 추억을 만들어가는 앱입니다.
+
+#### ✨ 주요 기능
+- 🎨 **100+ 스타일의 미니미 커플 캐릭터** - 우리만의 개성 넘치는 캐릭터 커스터마이징
+- 📅 **D-Day 위젯** - 홈/잠금화면 화면에서 바로 확인하는 기념일 카운트
+- 📝 **Ourbox (공유 버킷리스트)** - 함께 하고 싶은 일들을 기록하고 체크
+- 🎨 **다양한 컬러 테마** - 감성에 맞는 테마로 꾸미기
+- 🔔 **스페셜 데이** - 중요한 기념일 알림 기능
+
+#### 🔧 기술 스택
+- **Frontend**: Swift, SwiftUI (iOS) / Kotlin, Jetpack Compose (Android)
+- **Backend**: Firebase (Firestore, Authentication, Cloud Functions)
+- **Architecture**: MVVM, Clean Architecture
+- **Widget**: WidgetKit (iOS) / App Widget (Android)
+
+#### 👨‍💻 담당 역할
+- iOS/Android 풀스택 개발 (기획부터 배포까지 전 과정)
+- UI/UX 디자인 및 구현
+- Firebase 백엔드 설계 및 구축
+- 실시간 동기화 시스템 구현
+- 위젯 개발 및 최적화
+
+#### 📊 성과
+- 📱 iOS 정식 출시 (2024.08)
+- 🤖 Android 정식 출시 (2025.05)
+- ⭐ App Store 평점 4.8/5.0
+- 👥 DAU 160,000+ 사용자
+
+---
+
+### 2️⃣ Cherish - 나를 들여다보는 7가지 일기
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/cherish-diary-with-7-formats/id1639908764)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rriver2/cherish)
+
+</div>
+
+> **감정과 생각을 담는 특별한 일기 앱**
+
+**Cherish**는 7가지 다양한 일기 형식으로 하루를 기록하고, 자신의 감정과 생각을 돌아볼 수 있는 일기 앱입니다.
+
+#### ✨ 주요 기능
+- 📖 **7가지 일기 형식** - 감정 일기, 3분 일기, 문장 수집, 편지형, 질문 답변 등
+- 🎵 **음악과 함께 쓰는 일기** - 차분한 배경음악으로 몰입도 향상
+- 🔒 **백업 & 잠금 기능** - 안전한 데이터 보관
+- 🌓 **다크모드 지원** - 언제든 편안한 일기 쓰기
+- 🌍 **다국어 지원** - 한국어, 영어 (스페인어, 일본어 준비 중)
+
+#### 🔧 기술 스택
+- **Frontend**: Swift, SwiftUI
+- **Architecture**: MVVM
+- **UI/UX**: Custom Animation
+
+#### 👨‍💻 담당 역할
+- iOS 앱 전체 개발
+- 7가지 일기 형식별 UI/UX 설계 및 구현
+- 사용자 피드백 기반 지속적인 개선
+
+#### 📊 성과
+- ⭐ App Store 평점 4.9/5.0
+- 💬 "진정한 자기계발 앱" 등 긍정적 리뷰 다수
+- 📈 꾸준한 사용자 증가 추세
+
+---
+
+### 3️⃣ CHAKK - 3초 만에 인스타 스토리 꾸미기
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/chakk-스토리-꾸미는-재미-챡/id6747307749)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rriver2/CHAKK)
+
+</div>
+
+> **인스타 스토리 꾸미기의 새로운 표준**
+
+**CHAKK**은 1,300개 이상의 감성 스티커로 인스타그램 스토리를 3초 만에 꾸밀 수 있는 앱입니다.
+
+#### ✨ 주요 기능
+- 🎨 **1,300+ 프리미엄 스티커** - 감성, 밈, 귀여운 스타일 전부 포함
+- ⚡ **3초 사용법** - 탭 한 번으로 복사, 붙여넣기 완료
+- 🔄 **주간 업데이트** - 트렌디한 신규 스티커 지속 제공
+- 📱 **직관적인 UI** - 누구나 쉽게 사용 가능
+
+#### 🔧 기술 스택
+- **Frontend**: Swift, SwiftUI (iOS)
+- **Clipboard**: UIPasteboard (iOS)
+
+#### 👨‍💻 담당 역할
+- iOS 앱 개발 및 기획
+- 스티커 패키지 디자인 및 관리 시스템 구현
+- 클립보드 복사 기능 최적화
+- 사용자 피드백 기반 스티커 콘텐츠 기획
+- **Design**: 디자이너와 함께 하는 중
+
+#### 📊 성과
+- 🚀 출시 2개월 만에 앱스토어 1위 달성
+- 📈 일간 활성 사용자 꾸준한 증가
+- 💬 "진짜 편해요!" 등 편의성 관련 긍정 리뷰 다수
+
+---
+
+## 🏆 Other Notable Projects
+
+### 🎓 Apple Developer Academy @ POSTECH
+
+#### EP (WWDC22 Winner)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/rriver2/WWDC--Ep-)
+- 🏆 **WWDC 2022 Swift Student Challenge 장학생 선정**
+- 감정을 청각과 시각으로 표현하는 인터랙티브 앱
+- Swift Playgrounds로 개발
+
+#### Tiramisul
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear)
+- 지식 생산 및 지적 욕구 충족 앱
+- UIKit 기반 팀 프로젝트
+- **역할**: iOS Developer
+
+#### Campair
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-GreedySquirrel)
+- 차박 장비 추천 및 검색 플랫폼
+- **역할**: iOS Developer, UI/UX Design
+
+### 💻 Web Development
+
+#### PKSCL
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/rriver2/PKSCL)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://pkscl.kro.kr/)
+- 부경대 학업 관리 웹 서비스
+- 미제출 강의/과제/시험 통합 관리
+- **Tech**: React, JavaScript
+
+#### PKSelect
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/rriver2/pk_selecter_pj_front)
+[![Docs](https://img.shields.io/badge/Docs-00D9FF?style=flat-square&logo=gitbook&logoColor=white)](https://doongu.gitbook.io/pk_select/)
+- 학과 장부 온라인 관리 시스템
+- **Tech**: React, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rriver2&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,ccf7c9,ccf7c9&icon_color=4ABB88&border_color=39de94)](https://github.com/rriver2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rriver2&layout=compact&title_color=4ABB88&border_color=39de94)](https://github.com/rriver2)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rriver2&theme=vue&ring=39de94&fire=4ABB88&currStreakLabel=4ABB88)](https://github.com/rriver2)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🎨 **Advanced UI/UX Design Patterns** - 사용자 경험을 극대화하는 디자인
+- ⚡ **Performance Optimization** - 앱 성능 최적화 기법
+- 🌐 **IOS/ Android Development** - IOS/ Android 학습 중
+
+---
+
+## 📬 Get In Touch
+
+개발 관련 이야기나 협업 제안은 언제나 환영합니다!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rriverrr2@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-5FC397?style=for-the-badge)](https://rriver2.tistory.com/)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+</div>
